@@ -1675,7 +1675,7 @@
     (property "Reference" "C7" (id 0) (at 209.55 104.1462 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0.1uF" (id 1) (at 209.55 106.6862 0)
+    (property "Value" "10uF" (id 1) (at 209.55 106.6862 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 207.01 105.41 0)
@@ -1944,7 +1944,7 @@
       (reference "C6") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/bc415191-2264-432a-91a2-21b0cf8e7e17"
-      (reference "C7") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C7") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/b68d8a82-0ba5-463e-b05f-7ad6a1e19336"
       (reference "D1") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
